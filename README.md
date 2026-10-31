@@ -64,19 +64,21 @@ As descrições abaixo são sínteses editoriais dos resultados, não transcriç
 
 **Fontes relacionadas:** F5 para os conceitos; F2, especialmente a página impressa 54, para O Eremita. A captura abaixo comprova a citação de F5 aberta no caderno; não comprova a conferência de todas as afirmações da resposta.
 
-![Resposta no caderno com citação da fonte aberta](evidencias/resposta-com-citacao.png)
+![Resposta no caderno com citação da fonte aberta](resposta-com-citacao.png)
 
 **Observação editorial:** na resposta, Cronos/Saturno aparece próximo da definição do arquétipo. Convém distinguir a figura mitológica associada à carta por Dorin da estrutura abstrata discutida na teoria.
 
 ## Materiais e evidências
 
+Todos os arquivos abaixo ficam na raiz do repositório, junto deste README, sem subpastas.
+
 | Arquivo | Conteúdo |
 | --- | --- |
-| [Mapa mental original](materiais/mapa-mental-original.png) | Exportação do caderno, preservada sem alterações e com limitações descritas abaixo. |
-| [Guia de estudos revisado](materiais/guia-de-estudos-revisado.md) | Guia com glossário, perguntas e referências, gerado no Gemini e revisado com apoio do ChatGPT. |
-| [Captura com citação](evidencias/resposta-com-citacao.png) | Evidência direta da resposta no caderno vinculada ao trecho de F5. |
-| [Histórico do Gemini](evidencias/historico-gemini.pdf) | Registro original das interações e revisões, incluindo respostas iniciais que depois foram corrigidas. |
-| [Notas de revisão](materiais/notas-de-revisao.md) | Correções e limitações dos materiais. |
+| [Mapa mental original](mapa-mental-original.png) | Exportação do caderno, preservada sem alterações e com limitações descritas abaixo. |
+| [Guia de estudos revisado](guia-de-estudos-revisado.md) | Guia com glossário, perguntas e referências, gerado no Gemini e revisado com apoio do ChatGPT. |
+| [Captura com citação](resposta-com-citacao.png) | Evidência direta da resposta no caderno vinculada ao trecho de F5. |
+| [Histórico do Gemini](historico-gemini.pdf) | Registro original das interações e revisões, incluindo respostas iniciais que depois foram corrigidas. |
+| [Notas de revisão](notas-de-revisao.md) | Correções e limitações dos materiais. |
 
 ## Aprendizados e limites
 
@@ -95,4 +97,3 @@ As referências sustentam o estudo de interpretações simbólicas. A seleção 
 - [ ] Abrir os links e arquivos pelo GitHub após o envio.
 - [ ] Submeter à DIO o endereço do repositório, não apenas o link do notebook.
 
-Nome sugerido para o repositório: **taro-arquetipico-notebook**.
