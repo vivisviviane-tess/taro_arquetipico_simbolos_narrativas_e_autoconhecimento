@@ -88,12 +88,3 @@ O mapa mental repetiu imprecisões históricas já discutidas no chat. Isso most
 
 As referências sustentam o estudo de interpretações simbólicas. A seleção não constitui uma revisão sistemática nem permite estabelecer eficácia terapêutica. As falas do vídeo em português não foram conferidas integralmente nesta revisão.
 
-## Antes da submissão
-
-- [ ] Registrar a diretriz também no caderno, caso ainda não tenha sido feito.
-- [ ] Conferir o acesso ao link do notebook com outra conta.
-- [ ] Conferir as permissões das fontes compartilhadas e a ausência de dados pessoais.
-- [ ] Publicar os arquivos deste pacote em um repositório público na própria conta.
-- [ ] Abrir os links e arquivos pelo GitHub após o envio.
-- [ ] Submeter à DIO o endereço do repositório, não apenas o link do notebook.
-
